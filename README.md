@@ -1,4 +1,4 @@
-# pataphysics.gitub.io
+# pataphysics.github.io
 
 A github home for M C Morgan.
 
