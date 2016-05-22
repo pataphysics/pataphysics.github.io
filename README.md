@@ -2,7 +2,8 @@
 
 A github home for M C Morgan.
 
-Webpages guided and inspired by <a href="http://jmcglone.com/guides/github-pages/">Creating and Hosting a Personal Site on GitHub</a>.
+Webpages guided and inspired by 
 
-The Minimal Computing Movement.
-The desire to use "pataphyics" in an address.
+- <a href="http://jmcglone.com/guides/github-pages/">Creating and Hosting a Personal Site on GitHub</a>.
+- the Minimal Computing Movement.
+- a desire to use "pataphyics" in an address.
