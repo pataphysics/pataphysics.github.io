@@ -6,4 +6,5 @@ Webpages guided and inspired by
 
 - <a href="http://jmcglone.com/guides/github-pages/">Creating and Hosting a Personal Site on GitHub</a>.
 - the Minimal Computing Movement.
-- a desire to use "pataphyics" in an address.
+- a desire to use "pataphysics" in an address.
+
